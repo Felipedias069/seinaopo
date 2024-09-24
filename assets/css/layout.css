@@ -193,7 +193,7 @@ a {
 		height: 100vh;
 
 		/* Cor em RGB, mais transparência. */
-		background: 008000;
+		background: none;
 
 		/* Alinha os itens na vertical. */
 		justify-content: center;
