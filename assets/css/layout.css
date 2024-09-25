@@ -48,14 +48,7 @@ header, nav, main, aside, footer {
 /* Seletores para formatação individual. */
 
 header {
-	/* Altura do elemento. */
-	height: 100px;
-
-	/* Junção de flex-grow, flex-shrink e flex-basis.  */
-	/* flex-grow – Habilidade de um flex item crescer. */
-	/* flex-shrink - Capacidade de redução do item.    */
-	/* flex-basis – Tamanho inicial do item.           */
-	flex: 1 1 100vw;
+	<img src="logomarca.png">
 }
 
 header #logo {
